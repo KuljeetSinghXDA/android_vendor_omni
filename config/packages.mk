@@ -1,7 +1,10 @@
 # Additional apps
 PRODUCT_PACKAGES += \
+    MonthCalendarWidget \
+    OmniSwitch \
     Chromium \
     OmniStyle \
+    OmniClockOSS \
     MusicFX \
     Phonograph \
     MatLog \

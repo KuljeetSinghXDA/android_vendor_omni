@@ -1,7 +1,7 @@
 # Versioning of the ROM
 
 ifndef ROM_BUILDTYPE
-    ROM_BUILDTYPE := treskmod
+    ROM_BUILDTYPE := HOMEMADE
 endif
 
 TARGET_PRODUCT_SHORT := $(TARGET_PRODUCT)
